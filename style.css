@@ -1,0 +1,350 @@
+.services{
+    display: flex;
+    /* gap: 20px; */
+}
+#rasi{
+    gap: 40px;
+    padding-right: 500px;
+}
+#Sustainable-image{
+    width: 100%;
+}
+#room-decoration{
+    width: 50%;
+    display: flex;
+}
+.What-they-do{
+   display: flex;
+   gap: 40px;
+}
+#logo{
+    width: 50%;
+}
+.services{
+    display: flex;
+   gap: 30px;
+}
+#logo1{
+    width: 60%;
+    height: 30%;
+}
+#logo2{
+    width: 20px;
+    height: 30px;
+}
+.techniques{
+    text-align: center;
+}
+.different-textiles{
+    display: flex;
+    gap: 40px;
+}
+.clints-reaction{
+    text-align: center;
+}
+.garment-indusry{
+display: flex;
+gap: 30px;
+}
+#feature{
+    width: 70%;
+}
+.time-produced{
+    display: flex;
+    gap: 40px;
+}
+.images{
+    display: flex;
+    gap: 40px;
+    width: 70px;
+    height: 60px;
+}
+.showcasing{
+    text-align: center;
+}
+.showcasing-images{
+    display: flex;
+    gap: 10px;
+}
+.how-to-reach-rasi{
+    text-align: center;
+}
+#map-image{
+width: 100%;
+height: 30%;
+}
+.footers{
+    display: flex;
+    gap: 40px;
+    background-color: black;
+    color: white;
+}
+
+#mobile{
+    width: 10px;
+}
+#pt-image{
+    width: 60px;
+    height: 50px;
+}
+.know-us{
+    border-radius:30%;
+    background-color: green;
+    width: 100px;
+    height: 5%;
+}
+.Rasi-intro{
+    text-align: center;
+    background-color: green;
+    color: white;
+    font-size: 10px;
+}
+@media (max-width:550px){
+    .body{
+        overflow-x: hidden;
+    }
+    .services{
+        display: flex;
+        font-size: 10px;
+        width: 30px;
+        text-align: justify;
+        
+    }
+    #rasi{
+        gap: 40px;
+        padding-right: 500px;
+    }
+    #Sustainable-image{
+        width: 100%;
+    }
+    #room-decoration{
+        width: 50%;
+        display: flex;
+    }
+    .What-they-do{
+       display: flow-root;
+       gap: 20px;
+       width: 200%;
+    }
+    #logo{
+        width: 50%;
+    
+    
+    }
+    #logo1{
+        width: 60%;
+        height: 30%;
+    }
+
+#logo{
+    width: 30%;
+}
+
+
+#logo1{
+    width: 10%;
+    height: 40%;
+}
+#logo2{
+    width: 10px;
+    height: 20px;
+}
+.techniques{
+    text-align: center;
+}
+.different-textiles{
+    display: flow-root;
+    gap: 20px;
+    
+}
+#textile-image{
+    width: 100%;
+}
+.clints-reaction{
+    text-align: center;
+}
+.garment-indusry{
+display: flex;
+gap: 30px;
+}
+#feature{
+    width: 70%;
+}
+.time-produced{
+    display: flow-root;
+    gap: 40px;
+}
+#unsplash-image{
+    width: 100%;
+}
+.images{
+    display: flex;
+    gap: 20px;
+    width: 30px;
+    height: 20px;
+}
+.showcasing{
+    text-align:justify;
+    display: flow-root;
+}
+.showcasing-images{
+    display: flow-root;
+    gap: 10px;
+    width: 100%;
+}
+#clothes-image{
+    width: 100%;
+}
+#tamara{
+    width: 100%;
+}
+#bed-image{
+    width: 100%;
+}
+.how-to-reach-rasi{
+    text-align: center;
+}
+#map-image{
+width: 100%;
+height: 30%;
+}
+.footers{
+    display: flex;
+    gap: 40px;
+    background-color: black;
+    color: white;
+}
+
+#mobile{
+    width: 10px;
+}
+#pt-image{
+    width: 60px;
+    height: 50px;
+}
+.know-us{
+    border-radius:30%;
+    background-color: green;
+    width: 100px;
+    height: 5%;
+}
+.Rasi-intro{
+    text-align: center;
+    background-color: green;
+    color: white;
+    font-size: 10px;
+}
+.About-Rasi{
+    text-align: center;
+  display: flow-root;
+}
+.mobile-numbers{
+    width: 10%;
+    text-align: justify;
+}
+}
+@media (min-width:551px){
+    .services{
+        display: flex;
+        /* gap: 20px; */
+    }
+    #rasi{
+        gap: 40px;
+        padding-right: 500px;
+    }
+    #Sustainable-image{
+        width: 100%;
+    }
+    #room-decoration{
+        width: 50%;
+        display: flex;
+    }
+    .What-they-do{
+       display: flex;
+       gap: 40px;
+    }
+    #logo{
+        width: 50%;
+    }
+    .services{
+        display: flex;
+       gap: 30px;
+    }
+    #logo1{
+        width: 60%;
+        height: 30%;
+    }
+    #logo2{
+        width: 20px;
+        height: 30px;
+    }
+    .techniques{
+        text-align: center;
+    }
+    .different-textiles{
+        display: flex;
+        gap: 40px;
+    }
+    .clints-reaction{
+        text-align: center;
+    }
+    .garment-indusry{
+    display: flex;
+    gap: 30px;
+    }
+    #feature{
+        width: 70%;
+    }
+    .time-produced{
+        display: flex;
+        gap: 40px;
+    }
+    .images{
+        display: flex;
+        gap: 40px;
+        width: 70px;
+        height: 60px;
+    }
+    .showcasing{
+        text-align: center;
+    }
+    .showcasing-images{
+        display: flex;
+        gap: 10px;
+    }
+    .how-to-reach-rasi{
+        text-align: center;
+    }
+    #map-image{
+    width: 100%;
+    height: 30%;
+    }
+    .footers{
+        display: flex;
+        gap: 40px;
+        background-color: black;
+        color: white;
+    }
+    
+    #mobile{
+        width: 10px;
+    }
+    #pt-image{
+        width: 60px;
+        height: 50px;
+    }
+    .know-us{
+        border-radius:30%;
+        background-color: green;
+        width: 100px;
+        height: 5%;
+    }
+    .Rasi-intro{
+        text-align: center;
+        background-color: green;
+        color: white;
+        font-size: 10px;
+    }
+    
+       
+}
